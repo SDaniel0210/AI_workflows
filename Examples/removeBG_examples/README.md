@@ -7,7 +7,7 @@
 ![Input Image](fantasyhorse_stockimage.jpg)
 
 ### Output (Background Removed)
-![Background Removed](RMBG_00001.png)
+![Background Removed](RMBG_result.png)
 
 ## Performance
 - Processing time: ~2–5 seconds
